@@ -1,0 +1,9 @@
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MainForm.resources
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.Cache
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\EerAmore\Documents\Visual Studio Projects\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
