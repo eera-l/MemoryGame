@@ -433,11 +433,11 @@ namespace MemoryGame
                    {
                        if (b.Name == "button" + cardToTurn.ToString())
                        {
-                           if (b.Enabled)
+                           if (b.Enabled && !buttonHistory.Contains(b))
                            {
                                ShowImage(b, gm.CardArray[cardToTurn - 1]);
                                secondToLastButton = b;
-                               if (!buttonHistory.Contains(b))
+                               //if (!buttonHistory.Contains(b))
                                    buttonHistory.Add(b);
                                break;
                            }
